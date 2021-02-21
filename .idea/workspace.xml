@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32e3a34-93de-4b8b-ac15-2865882a07bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chat/data_clean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace_mingyuan/train.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Glucosamine_ChatBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Glucosamine_ChatBot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/record.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/record.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/record.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/sort_record.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/sort_record.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/split.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/split.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/decoder_input.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/decoder_input.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/decoder_output.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/decoder_output.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/encoder_input.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/encoder_input.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/s2s.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/s2s.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/words_dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/words_dictionary.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +54,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.qq">
     <configuration name="QQRecord2Excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Glucosamine_ChatBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="D:\Plugins and Properties\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chat" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -114,6 +103,9 @@
       <module name="Glucosamine_ChatBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="D:\Plugins and Properties\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chat" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -169,9 +161,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.qq" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.QQRecord2Excel" />
-        <item itemvalue="Python.qq" />
         <item itemvalue="Python.data_clean" />
       </list>
     </recent_temporary>
@@ -197,6 +189,8 @@
       <workItem from="1613752729935" duration="316000" />
       <workItem from="1613825052498" duration="20000" />
       <workItem from="1613826114429" duration="4785000" />
+      <workItem from="1613842434358" duration="1108000" />
+      <workItem from="1613877534249" duration="4236000" />
     </task>
     <task id="LOCAL-00001" summary="Running in Python Venv(3.7.4)">
       <created>1613737590888</created>
