@@ -1,3 +1,7 @@
+
+
+## *本项目预计在3月和4月持续更新！！*
+
 # Glucosamine_ChatBot
 
 a QQ chat bot
