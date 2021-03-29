@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d32e3a34-93de-4b8b-ac15-2865882a07bf" name="Default Changelist" comment="" />
+    <list default="true" id="d32e3a34-93de-4b8b-ac15-2865882a07bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,6 +198,11 @@
       <workItem from="1613842434358" duration="1108000" />
       <workItem from="1613877534249" duration="4236000" />
       <workItem from="1614218994601" duration="9000" />
+      <workItem from="1616032736228" duration="3000" />
+      <workItem from="1616032791663" duration="1251000" />
+      <workItem from="1616126589220" duration="519000" />
+      <workItem from="1616145420428" duration="58000" />
+      <workItem from="1616495805606" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="Running in Python Venv(3.7.4)">
       <created>1613737590888</created>
