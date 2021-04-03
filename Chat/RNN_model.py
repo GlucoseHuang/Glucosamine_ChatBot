@@ -1,3 +1,8 @@
+"""
+本文件中的代码来源于：
+    https://github.com/Dimsmary/Ossas_ChatBot
+"""
+
 import json
 import os
 import sys

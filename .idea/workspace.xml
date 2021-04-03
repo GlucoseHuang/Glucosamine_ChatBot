@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32e3a34-93de-4b8b-ac15-2865882a07bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/ai.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/emotion.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/gossip.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/history.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/humor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/literature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/money.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/movies.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/politics.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/psychology.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/science.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/sports.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/trivia.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/QQRecord2Excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/Seq2Seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Seq2Seq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/data_clean.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QQ/qq.py" beforeDir="false" afterPath="$PROJECT_DIR$/QQ/qq.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -34,6 +58,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
       <set>
+        <option value="https://github.com/GlucoseHuang/Glucosamine_ChatBot" />
         <option value="https://github.com/GlucoseHuang/Ossas_ChatBot" />
       </set>
     </option>
@@ -50,33 +75,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.qq">
-    <configuration name="QQRecord2Excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Glucosamine_ChatBot" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Plugins and Properties\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chat" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chat/QQRecord2Excel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Glucosamine_ChatBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,80 +103,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="data_clean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Glucosamine_ChatBot" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Plugins and Properties\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chat" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chat/data_clean.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Glucosamine_ChatBot" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Plugins and Properties\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chat" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chat/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="qq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Glucosamine_ChatBot" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Plugins and Properties\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QQ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QQ/qq.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.qq" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.QQRecord2Excel" />
-        <item itemvalue="Python.data_clean" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -203,6 +133,8 @@
       <workItem from="1616126589220" duration="519000" />
       <workItem from="1616145420428" duration="58000" />
       <workItem from="1616495805606" duration="28000" />
+      <workItem from="1617195844427" duration="3917000" />
+      <workItem from="1617454496417" duration="2955000" />
     </task>
     <task id="LOCAL-00001" summary="Running in Python Venv(3.7.4)">
       <created>1613737590888</created>
@@ -241,5 +173,6 @@
     <SUITE FILE_PATH="coverage/Ossas_ChatBot$Seq2Seq.coverage" NAME="Seq2Seq Coverage Results" MODIFIED="1613736476537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ossas_ChatBot$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1613738535063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chat" />
     <SUITE FILE_PATH="coverage/Ossas_ChatBot$qq.coverage" NAME="qq Coverage Results" MODIFIED="1613742085902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QQ" />
+    <SUITE FILE_PATH="coverage/Glucosamine_ChatBot$yml_process.coverage" NAME="yml_process Coverage Results" MODIFIED="1617454732429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chat/workspace" />
   </component>
 </project>

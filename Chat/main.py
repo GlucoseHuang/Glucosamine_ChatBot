@@ -1,4 +1,10 @@
-import Chat.Seq2Seq as RNN
+"""
+本文件中的代码来源于：
+    https://github.com/Dimsmary/Ossas_ChatBot
+"""
+
+
+import Chat.RNN_model as RNN
 
 states = [1, 1]
 reply_dict = [None, None]
@@ -14,17 +20,17 @@ def reply(str_in):
 if __name__ == "__main__":
     while True:
         print("-----------------")
-        print("模式1：搭建模型")
-        print("模式2：训练模型")
-        print("模式3：进行对话")
+        print("1：搭建模型")
+        print("2：训练模型")
+        print("3：进行对话")
         print("-----------------")
-        mode = input('输入工作模式：')
+        mode = input('输入选项：')
         if mode == '1':
             RNN.pre_precess()
             RNN.setup_model()
         elif mode == '2':
-            epo = input('输入循环轮数：')
-            bat = input('输入batch size:')
+            epo = input('循环轮数：')
+            bat = input('batch size:')
             RNN.train_model(bat, epo)
         elif mode == '3':
             print('输入数字0退出')
