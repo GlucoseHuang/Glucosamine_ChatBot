@@ -3,7 +3,6 @@
     https://github.com/Dimsmary/Ossas_ChatBot
 """
 
-
 import Chat.RNN_model as RNN
 
 states = [1, 1]
