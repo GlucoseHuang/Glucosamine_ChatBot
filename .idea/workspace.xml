@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32e3a34-93de-4b8b-ac15-2865882a07bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/ai.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/botprofile.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/conversations.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/emotion.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/food.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/gossip.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/greetings.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/history.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/humor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/literature.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/money.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/movies.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/politics.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/psychology.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/science.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/sports.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/workspace/corpus/trivia.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/QQRecord2Excel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Seq2Seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Seq2Seq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/data_clean.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QQ/qq.py" beforeDir="false" afterPath="$PROJECT_DIR$/QQ/qq.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +55,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abc\OneDrive - whu.edu.cn\桌面\Glucosamine_ChatBot\Chat" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -134,7 +115,8 @@
       <workItem from="1616145420428" duration="58000" />
       <workItem from="1616495805606" duration="28000" />
       <workItem from="1617195844427" duration="3917000" />
-      <workItem from="1617454496417" duration="2955000" />
+      <workItem from="1617454496417" duration="3466000" />
+      <workItem from="1617458177057" duration="81000" />
     </task>
     <task id="LOCAL-00001" summary="Running in Python Venv(3.7.4)">
       <created>1613737590888</created>
@@ -150,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613737980364</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Running in Python Venv(3.7.4)">
+      <created>1617457675551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617457675551</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
