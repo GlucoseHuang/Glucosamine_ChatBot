@@ -8,15 +8,15 @@
 
 a QQ chat bot
 
+注：本项目使用Pycharm Professional完成，感谢Jetbrains为全球学生提供的技术支持。
+
 ## 运行环境：
 
 [Python < 3.8.0](https://www.python.org/downloads/release/python-374/)
 
 [Mirai Console Loader](github.com/iTXTech/mirai-console-loader)
 
-## 所依赖的项目：
-
-[mirai](https://github.com/mamoe/mirai)
+## 提供帮助的项目：
 
 [Ossas_ChatBot](https://github.com/Dimsmary/Ossas_ChatBot)
 
