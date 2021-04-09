@@ -26,7 +26,7 @@ app = GraiaMiraiApplication(
 
 @bcc.receiver("FriendMessage")
 async def friend_message_listener(app: GraiaMiraiApplication, friend: Friend):
-    text = "作者：\n\tgithub.com/GlucoseHuang\n\n技术支持：\n\tgithub.com/mamoe/mirai\n\tgithub.com/Dimsmary/Ossas_ChatBot\n\t特别鸣谢！"
+    text = "作者：https://github.com/GlucoseHuang"
     await app.sendFriendMessage(friend, MessageChain.create([Plain(text)]))
 
 
