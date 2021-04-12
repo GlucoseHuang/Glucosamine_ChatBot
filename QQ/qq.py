@@ -8,7 +8,7 @@ from graia.application.message.elements.internal import At
 from graia.application.message.elements.internal import Plain
 from graia.broadcast import Broadcast
 
-from Chat.main import reply
+from Chat.train_model import reply
 
 loop = asyncio.get_event_loop()
 
@@ -25,9 +25,8 @@ app = GraiaMiraiApplication(
 
 
 @bcc.receiver("FriendMessage")
-async def friend_message_listener(app: GraiaMiraiApplication, friend: Friend):
-    text = "作者：https://github.com/GlucoseHuang"
-    await app.sendFriendMessage(friend, MessageChain.create([Plain(text)]))
+async def friend_message_listener(app: GraiaMiraiApplication, friend: Friend, message: MessageChain):
+    await app.sendFriendMessage(friend, MessageChain.create([Plain(reply(message[Plain][0].text) + ' ')]))
 
 
 @bcc.receiver("GroupMessage")
