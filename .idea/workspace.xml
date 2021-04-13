@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d32e3a34-93de-4b8b-ac15-2865882a07bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/train_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/ext_dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/ext_dict.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/decoder_input.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/decoder_input.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/decoder_output.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/decoder_output.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/encoder_input.npy" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/encoder_input.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/s2s.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/s2s.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/workspace/train_data/words_dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/workspace/train_data/words_dictionary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QQ/qq.py" beforeDir="false" afterPath="$PROJECT_DIR$/QQ/qq.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +61,7 @@
       <recent name="C:\Users\abc\OneDrive - whu.edu.cn\桌面\Glucosamine_ChatBot\Chat" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.qq">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Glucosamine_ChatBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +84,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="qq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Glucosamine_ChatBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Plugins and Properties\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QQ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QQ/qq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Glucosamine_ChatBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Plugins and Properties\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chat/train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.qq" />
+        <item itemvalue="Python.train_model" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -133,6 +168,7 @@
       <workItem from="1617761118587" duration="46000" />
       <workItem from="1618142706753" duration="3729000" />
       <workItem from="1618195254170" duration="3314000" />
+      <workItem from="1618316106939" duration="746000" />
     </task>
     <task id="LOCAL-00001" summary="Running in Python Venv(3.7.4)">
       <created>1613737590888</created>
