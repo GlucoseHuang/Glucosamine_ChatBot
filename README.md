@@ -1,16 +1,10 @@
-
-
-## *三月份已经烂掉，我们四月继续加油！！*
-
-## *本项目预计在3月和4月持续更新！！*
-
 # Glucosamine_ChatBot
 
 a QQ chat bot
 
 注：本项目使用Pycharm Professional完成，感谢Jetbrains为全球学生提供的技术支持。
 
-## 运行环境：
+## 运行所必须的环境
 
 [Python < 3.8.0](https://www.python.org/downloads/release/python-374/)
 
