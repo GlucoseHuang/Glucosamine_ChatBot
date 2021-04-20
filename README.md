@@ -2,8 +2,6 @@
 
 a QQ chat bot
 
-注：本项目使用Pycharm Professional完成，感谢Jetbrains为全球学生提供的技术支持。
-
 ## 运行所必须的环境
 
 [Python < 3.8.0](https://www.python.org/downloads/release/python-374/)
